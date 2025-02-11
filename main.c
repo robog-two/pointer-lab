@@ -9,16 +9,6 @@ if (char2 != NULL) free(char2);
 
 int main()
 {
-  // int n1, n2, *intPtr;
-  // int numOfBytes = sizeof(int);
-  // //intPtr = (int *)malloc(numOfBytes);
-  // printf ( "Enter two numbers\n");
-  // scanf("%d%d",&n1,&n2);
-  // printf ( "The numbers you entered are: %d and %d \n", n1, n2);
-  // *intPtr = n1 + n2;
-  // printf ("and their sum is: %d\n", *intPtr);
-  // free(intPtr);
-
   char *char1;
   char *char2;
 
